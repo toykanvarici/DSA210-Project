@@ -7,7 +7,7 @@
 
 ## Project Description
 
-This project explores the relationship between my daily step counts, recorded via Apple Health, and different periods of my academic life (e.g., school terms, exam weeks, and vacations). By analyzing step data over three years, I aim to identify trends in physical activity and how it correlates with varying levels of academic stress and lifestyle changes.
+This project explores the relationship between my daily step counts, recorded via Apple Health, and different periods of my academic life (e.g., school terms, exam period, and vacations). By analyzing step data over three years, I aim to identify trends in physical activity and how it correlates with my acadamic period.
 
 ---
 
@@ -16,6 +16,7 @@ This project explores the relationship between my daily step counts, recorded vi
 The motivation for this project stems from a curiosity to better understand how my physical activity patterns fluctuate during school-related activities. Specifically:
 - Do I walk less during exam periods due to stress and time constraints?
 - Are vacations associated with higher physical activity due to more free time?
+- Do my physical activity in free time is enough or not? for a person to live a healthy life according to averages?
 
 This project serves as a reflection on my lifestyle habits and encourages better health and time management during intense academic periods.
 
@@ -48,7 +49,7 @@ This project serves as a reflection on my lifestyle habits and encourages better
 
 4. **Statistical Analysis**:
    - Performed t-tests to check for significant differences in step counts between periods (e.g., "Exam Week" vs. "Vacation").
-   - Analyzed the distribution of step counts using box plots.
+   - Analyzed the distribution of step counts using a plotting technique.
 
 ---
 
@@ -64,7 +65,7 @@ This project serves as a reflection on my lifestyle habits and encourages better
 ## Limitations and Future Work
 
 ### Limitations:
-1. **Data Gaps**: Some days had missing step data due to technical issues or not carrying my phone.
+1. **Data Gaps**: Some times in a day had missing step data due to technical issues or not carrying my phone for example while actively playing sports, since I can not carry my phone with me in those times I do not have the data of those times..
 2. **Bias**: Step data may not fully represent physical activity levels, as other activities (e.g., cycling or gym workouts) are not tracked.
 3. **Generalizability**: Findings are personal and may not apply to others.
 
@@ -76,7 +77,7 @@ This project serves as a reflection on my lifestyle habits and encourages better
 3. **Comparison with Peers**:
    - Collect similar data from friends or family to see if trends are consistent.
 4. **Behavioral Changes**:
-   - Use the insights gained to create healthier habits, such as planning regular walks during exam weeks.
+   - Use the insights gained to create healthier habits, such as planning regular walks during exam weeks or playing active sporgts during exam weeks or school periods.
 
 ---
 
