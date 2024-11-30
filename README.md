@@ -65,7 +65,7 @@ This project serves as a reflection on my lifestyle habits and encourages better
 ## Limitations and Future Work
 
 ### Limitations:
-1. **Data Gaps**: Some times in a day had missing step data due to technical issues or not carrying my phone for example while actively playing sports, since I can not carry my phone with me in those times I do not have the data of those times..
+1. **Data Gaps**: Some times in a day had missing step data due to technical issues or not carrying my phone for example while actively playing sports, since I can not carry my phone with me in those times I do not have the data of the times in which I do sports actively.
 2. **Bias**: Step data may not fully represent physical activity levels, as other activities (e.g., cycling or gym workouts) are not tracked.
 3. **Generalizability**: Findings are personal and may not apply to others.
 
