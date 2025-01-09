@@ -57,12 +57,16 @@ This project serves as a reflection on my lifestyle habits and encourages better
 
 ---
 
-## Findings
+## Before Findings
 
-- **Exam Periods**: Step counts decreased during exam weeks, likely due to time spent studying and reduced physical activity.
-- **Vacation Periods**: Step counts were highest, reflecting more leisure time and opportunities for outdoor activities.
-- **Weekday vs. Weekend**: Step counts were consistently higher on weekends, even during school terms, indicating increased free time and relaxation.
-- **Yearly Trends**: Over three years, my overall step count increased, showing a growing awareness of staying active.
+- **Exam Periods**: During exam weeks, step counts decreased significantly. This trend is likely caused by time constraints and reduced physical activity due to studying.![image](https://github.com/user-attachments/assets/9005ce71-9e5b-4d19-ab4b-e4d4b35517a0)
+
+- **Vacation Periods**: Step counts were highest during vacation periods, reflecting more leisure time and increased opportunities for outdoor activities.![image](https://github.com/user-attachments/assets/88ea6ddc-6153-4bd2-93f2-d44c28a3d8df)
+
+- **Weekday vs. Weekend**: Step counts were consistently higher on weekends compared to weekdays, even during academic terms, indicating increased free time and relaxation.![image](https://github.com/user-attachments/assets/b7fb7919-96d1-4171-aaff-20d861b25614)
+
+- **Yearly Trends**: Over three years, the overall step count increased steadily, showing a growing awareness of staying active.![image](https://github.com/user-attachments/assets/be27556e-76c3-413e-a95d-5964bd0ddee5)
+
 
 ---
 
